@@ -2,17 +2,17 @@
 export const projectsData = [
   {
     title: "RAG Model",
-    image: "../media/img1.png",
+    image: "/img1.png",
     description: "A Base RAG Model to understand the basics about encoding and semantic searching to generate context inclusive answers.",
   },
   {
     title: "CGPA Checker",
-    image: "../media/img2.png",
+    image: "/img2.png",
     description: "My first project where I built something that was for the general population. No need to rely on math anymore, I have coded it for you. Made with 💗 for my fellow VITians, who never stop talking about CGPAs xD.",
   },
   {
     title: "Hackathon Manager Platform",
-    image: "../media/img3.png",
+    image: "/img3.png",
     description: "A React-based platform to manage hackathons, allowing hosts to create events with seamless UI/UX. A seperate panelist page to manage scoring the teams based on the given criteria.",
   },
 ];

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { words } from "../variables";
+import { words } from "../../variables";
 export default function Home() {
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [currentText, setCurrentText] = useState('');

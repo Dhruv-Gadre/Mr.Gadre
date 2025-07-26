@@ -1,7 +1,7 @@
 import React from "react";
 import { Briefcase, Coffee,Code,  CoffeeIcon, Music, Mountain, BicepsFlexedIcon } from "lucide-react";
-import { self_description } from "../variables";
-import { experience } from "../variables";
+import { self_description } from "../../variables";
+import { experience } from "../../variables";
 export default function About() {
   return (
     <section id="about" className="py-24 px-8 bg-gradient-to-b from-gray-900 to-black text-white">

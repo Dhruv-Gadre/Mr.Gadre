@@ -1,5 +1,5 @@
 import React from "react";
-import { projectsData } from "../variables.js";
+import { projectsData } from "../../variables.js";
 import { Code, ExternalLink, Github } from "lucide-react";
 
 export default function Projects() {
