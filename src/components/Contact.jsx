@@ -33,7 +33,7 @@ export default function Contact() {
     };
 
     return (
-        <section id="contact" className="h-screen py-32 px-8 bg-gradient-to-b from-gray-900 to-black">
+        <section id="contact" className="min-h-screen py-32 px-8 bg-gradient-to-b from-gray-900 to-black">
             <div className="max-w-6xl mx-auto">
                 {/* Header */}
                 <div className="text-center mb-16">

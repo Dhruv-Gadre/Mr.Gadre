@@ -4,7 +4,7 @@ import { Code, ExternalLink, Github } from "lucide-react";
 
 export default function Projects() {
   return (
-    <section id="projects" className="h-screen py-40 px-8 bg-gradient-to-b from-gray-900 to-black">
+    <section id="projects" className="min-h-screen py-40 px-8 bg-gradient-to-b from-gray-900 to-black">
       <div className="max-w-6xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">
