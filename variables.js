@@ -3,16 +3,19 @@ export const projectsData = [
   {
     title: "RAG Model",
     image: "/img1.png",
+    githubUrl: "https://github.com/Dhruv-Gadre/basic_rag",
     description: "A Base RAG Model to understand the basics about encoding and semantic searching to generate context inclusive answers.",
   },
   {
     title: "CGPA Checker",
     image: "/img2.png",
+    githubUrl: "https://github.com/Dhruv-Gadre/CGPAChecker",
     description: "My first project where I built something that was for the general population. No need to rely on math anymore, I have coded it for you. Made with 💗 for my fellow VITians, who never stop talking about CGPAs xD.",
   },
   {
     title: "Hackathon Manager Platform",
     image: "/img3.png",
+    githubUrl: "https://github.com/Dhruv-Gadre/HackManager",
     description: "A React-based platform to manage hackathons, allowing hosts to create events with seamless UI/UX. A seperate panelist page to manage scoring the teams based on the given criteria.",
   },
 ];

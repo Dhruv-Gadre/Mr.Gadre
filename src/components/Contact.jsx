@@ -122,7 +122,7 @@ export default function Contact() {
                                 </div>
                                 <div>
                                     <h4 className="font-medium text-white">Email Me</h4>
-                                    <a href="mailto:hello@example.com" className="text-cyan-400 hover:underline">dhruvgadre0906@gmail.com</a>
+                                    <a href="mailto:dhruvgadre09062005@gmail.com" className="text-cyan-400 hover:underline">dhruvgadre09062005@gmail.com</a>
                                 </div>
                             </div>
                         </div>
@@ -136,7 +136,7 @@ export default function Contact() {
                                 </div>
                                 <div>
                                     <h4 className="font-medium text-white">Call Me</h4>
-                                    <a href="tel:+1234567890" className="text-cyan-400 hover:underline">+91 91365 31815</a>
+                                    <a href="tel:+91 9136531815" className="text-cyan-400 hover:underline">+91 91365 31815</a>
                                 </div>
                             </div>
                         </div>

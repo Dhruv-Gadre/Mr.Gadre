@@ -1,5 +1,5 @@
 import React from "react";
-import { Briefcase, Coffee,Code,  CoffeeIcon, Music, Mountain, BicepsFlexedIcon } from "lucide-react";
+import { Briefcase, Coffee,Code,  CoffeeIcon, Music, BicepsFlexedIcon, Gamepad2 } from "lucide-react";
 import { self_description } from "../../variables";
 import { experience } from "../../variables";
 export default function About() {
@@ -60,11 +60,11 @@ export default function About() {
           </h3>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
             {[
-              { icon: <Mountain className="w-6 h-6" />, name: "Adventure Sports" },
+              { icon: <Gamepad2 className="w-6 h-6" />, name: "Gaming" },
               { icon: <Music className="w-6 h-6" />, name: "Playing the Guitar" },
               { icon: <CoffeeIcon className="w-6 h-6" />, name: "Caffeine!" },
             ].map((hobby, index) => (
-              <div key={index} className="bg-gray-800/50 p-4 rounded-lg border border-gray-700/50 hover:border-cyan-400/30 transition-colors">
+              <div key={index} className="flex justify-center items-center flex-col bg-gray-800/50 p-4 rounded-lg border border-gray-700/50 hover:border-cyan-400/30 transition-colors">
                 <div className="w-12 h-12 bg-cyan-500/10 rounded-full flex items-center justify-center mb-3 text-cyan-400">
                   {hobby.icon}
                 </div>
