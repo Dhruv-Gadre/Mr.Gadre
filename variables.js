@@ -44,11 +44,11 @@ export const experience = [
 
 
 export const words = [
-  "Front-End Developer",
   "AI Applications Developer",
   "Python Developer",
-  "Professional JS Hater (Kidding......maybe not)",
-  "Tech Enthusiast"
+  "Front-End Developer",
+  "Tech Enthusiast",
+  "Professional JS Hater (Kidding......maybe not)"
 ];
 
 
