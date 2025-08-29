@@ -18,6 +18,12 @@ export const projectsData = [
     githubUrl: "https://github.com/Dhruv-Gadre/HackManager",
     description: "A React-based platform to manage hackathons, allowing hosts to create events with seamless UI/UX. A seperate panelist page to manage scoring the teams based on the given criteria.",
   },
+  {
+    title: "No Code LSTM Playground",
+    image: "/img4.png",
+    githubUrl: "https://github.com/Dhruv-Gadre/LSTM_Playground_app",
+    description: "Developed a No Code LSTM Desktop app (using Tauri and ReactJs) to have users learn the basics of this model without taking a deep dive into the code behind it. Created this project to deploy in lab computers in VIT Chennai."
+  }
 ];
 
 export const self_description = [
